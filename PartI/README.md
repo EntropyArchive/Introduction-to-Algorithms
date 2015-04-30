@@ -18,8 +18,10 @@ Part1
 * build
 * conf
 * doc
-  *notes
+  * notes
 * lib
 * resources
 * scr
  * chapter1
+ * chapter2
+ * chapter3
