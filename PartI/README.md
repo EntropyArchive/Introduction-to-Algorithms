@@ -14,12 +14,12 @@ File Structure
 --------------
 
 Part1
--bin
--build
--conf
--doc
---notes
--lib
--resources
--scr
---chapter1
+*bin
+*build
+*conf
+*doc
+ *notes
+*lib
+*resources
+*scr
+ *chapter1
