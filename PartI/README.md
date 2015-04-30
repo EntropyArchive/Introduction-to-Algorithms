@@ -13,7 +13,6 @@ Chapters for Part 1:
 File Structure
 --------------
 
-Part1
 * bin
 * build
 * conf
