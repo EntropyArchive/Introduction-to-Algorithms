@@ -1,8 +1,12 @@
 # Introduction-to-Algorithms
+<<<<<<< HEAD
 This contains file are programs and notes that I create as I read Introduction
 to Algorithms 3rd edition. The accuracy of these answer are not guaranteed to be
 correct. And the programs are not guaranteed to be correct. Use them at your
 own risk.  
+=======
+This contains programs and notes that I create as I read Introduction to Algorithms 3rd edition. 
+>>>>>>> b2d11d1e7adf1b45849ae0d9b58174a2a7a9b8e2
 
 http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844
 http://mitpress.mit.edu/books/introduction-algorithms
